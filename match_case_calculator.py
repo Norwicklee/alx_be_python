@@ -1,6 +1,6 @@
 #Prompt user to enter two numbers
 num1 = float(input("Enter the first number: "))
-num2 = float(input("Enter he second number: "))
+num2 = float(input("Enter the second number: "))
 
 #Enter operation
 operation = input("Choose the operation (+, -, *, /): ")
